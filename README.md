@@ -12,6 +12,6 @@ features:
 - title: すごい機能
   details: とてもすごい
 - title: すごい機能
-  details: やばい
+  details: やばいですよ
 ---
 
